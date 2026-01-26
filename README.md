@@ -1,2 +1,2 @@
 # theVariableReed
-The is the software and files associated with the Variable Reed project
+Here are the software and hardware files associated with the Variable Reed project
